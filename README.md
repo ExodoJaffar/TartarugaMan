@@ -1,6 +1,6 @@
 ﻿# Tartarura Man #
 
-[Jogo dos Tartarugas Ninjas](LinkparaSitedoJogo)
+# [Jogo dos Tartarugas Ninjas](LinkparaSitedoJogo)
 
-[![Boneco](/boneco.jpg)](https://github.com/ExodoJaffar/TartarugaMan/blob/master/boneco.jpg)
+[![Boneco](/boneco.jpg)](boneco.jpg)
 
