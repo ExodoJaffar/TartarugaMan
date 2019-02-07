@@ -2,5 +2,5 @@
 
 [Jogo dos Tartarugas Ninjas](LinkparaSitedoJogo)
 
-!./boneco.jpg
+[![Boneco](/boneco.jpg)](https://github.com/ExodoJaffar/TartarugaMan/blob/master/boneco.jpg)
 
